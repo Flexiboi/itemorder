@@ -1,0 +1,37 @@
+{
+   "menu": {
+      "title_order": "Bestelling plaatsen",
+      "title_checkorder": "Bestelling bekijken (Totaal €%s)",
+      "title_addtoorder": "Voeg %s toe aan je bestelling",
+      "title_confirmorder": "Klaar om te bestellen",
+      "description_addtoorder": "Prijs: €%s",
+      "how_much_order": "Hoeveel wil je er van bestellen?",
+      "how_much_remove": "Hoeveel wil je uit je mandje verwijderen?",
+      "amount": "Hoeveelheid",
+      "confirm": "Bevestig",
+      "remove": "Druk om te verwijderen",
+      "check_title": "%s X %s",
+      "total_to_pay": "Totaal te betalen €%s"
+   },
+   "success": {
+      "order_added": "Toegevoegd aan mandje",
+      "order_removed": "Verwijderd uit mandje",
+      "order_confirmed": "Bestelling gelukt! Je zal het zo kunnen komen halen."
+   },
+   "error": {
+      "exploit_kick": "Ela zo bestellen we niet he!",
+      "not_enough_balance": "Heb je wel genoeg geld bij? Op de bank staan? In de kluis?",
+      "cant_add_to_order": "Waarschijnlijk ben je al bezig met een bestelling. Anders moet je jou baas eens bellen?"
+   },
+   "target": {
+      "order": "Bestellen..",
+      "check": "Bestelling bekijken..",
+      "submit": "Bestelling bevestigen..",
+      "grab_order": "Bestelling afhalen.."
+   },
+   "banking": "Bestelling geplaatst",
+   "discord": {
+      "order_payed_title": "Bestelling betaald",
+      "order_payed_desc": "Bestelling koste €%s \n \n **SPULLEN** \n %s"
+   }
+}
